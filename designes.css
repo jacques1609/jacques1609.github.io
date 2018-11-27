@@ -1,0 +1,151 @@
+
+table, th, td {
+    padding: 3px;
+	margin-left:10px;
+	        }
+
+body{
+	background: #f8f8f8;
+}
+	
+#img_1 {	
+	border-radius: 5px;	    
+		}
+		
+#img_2 {	
+	border-radius: 5px;	    
+		}
+		
+#img {
+	border-radius: 5px;
+}
+		
+		
+header {
+	
+	border: 1px dotted;
+	background-color: #696969;
+	color: white;
+	text-align: center;
+	}
+	
+footer {
+	text-align:center;
+	background:#696969;
+	color: white;
+	padding:5px;
+	}
+	
+#Dogs {
+	text-align: center;
+	}
+	
+article {
+	margin-left:10px;
+	padding-left: 10px;
+	}
+	
+#links {
+	padding:5px;
+	}
+
+#justificado {
+	text-align: justify;
+	}
+	
+#justificado_home {
+	text-align: justify;
+	}
+	
+#trab {
+	text-align:center;
+	color:red;
+	position: absolute;
+	margin-left:85%
+      }
+	  
+#fras {
+	text-align:center;
+	color:blue;
+	border-bottom: solid blue;
+	position: absolute;
+	margin-left:87%
+      }	
+	
+#galeria {
+	text-align:center;
+}
+
+#galeria_Resul {
+	text-align:center;
+}
+
+.botao {
+    background-color: #4CAF50;
+    border-radius: 10px;
+    color: white;
+    padding: 10px 27px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	}
+	
+
+#apadri {
+	text-align: justificado;
+	margin-left: 20px;
+	margin-right: 20px
+}
+
+#teste {
+	margin-left: 50px;}
+
+.alinhamento {
+margin-left:20px}
+
+#titulo_submenu {
+	border-radius: 10px;	
+}
+	
+
+.id {
+	background-color: #9e9e9e;
+    border-radius: 10px ;
+    color: white;
+    padding: 3px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: block;	
+}
+
+#h4 {
+	margin-left:29px;
+}
+
+.justificado {
+	text-align:justify;
+	margin-right: 1000px
+}
+
+.Qapadri {
+	background-color: #9e9e9e;
+    border-radius: 10px ;
+    color: white;
+    padding: 3px 10px;
+    text-align: center;
+    text-decoration: none;		
+}	
+
+#ajust {
+	margin-top: 10px;
+}
+
+#telefone {
+	border-radius: 5px;
+}
+
+.video {
+	border-radius:5px;
+	background-color: green;
+}
